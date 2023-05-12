@@ -3,7 +3,7 @@
 ![alt text](https://raw.githubusercontent.com/RayanYousef/Unity_2D_Platformer/main/2d%20Platformer.png)
 <br/>
 
-<![endif]--> A 2D platformer game was created with features including character movement, dashing, and jumping within the levels. The player encounters ranged spell-casting enemies, adding a challenging element to the game. The game was developed using Unity URP and includes a music lerp feature.
+A 2D platformer game was created with features including character movement, dashing, and jumping within the levels. The player encounters ranged spell-casting enemies, adding a challenging element to the game. The game was developed using Unity URP and includes a music lerp feature.
 
 **Features:**
 -   2D platformer game with challenging levels and enemies
